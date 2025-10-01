@@ -16,15 +16,15 @@ I bring **6+ years of automotive product design and development** experience (Me
 ## 📂 Featured Repositories
 - **Automotive-Product-CaseStudies**  
   Detailed case studies (Mercedes S-Class, Jeep Cherokee, Nissan Murano) + templates (PRD, roadmap, backlog, risk register) and Agile playbooks.  
-  👉 https://github.com/<your-username>/Automotive-Product-CaseStudies
+  👉 [https://github.com/<your-username>/Automotive-Projects](https://github.com/amitkumar714/Automotive-Projects.git)
 
 - **AI-Innovation-Risk-Management**  
   My Master’s thesis repo with objectives, methodology, findings, recommendations, and a **Business Model Canvas (Markdown + Mermaid + PDF)**.  
-  👉 https://github.com/<your-username>/AI-Innovation-Risk-Management
+  👉 [https://github.com/<your-username>/AI-Innovation-Risk-Management](https://github.com/amitkumar714/AI-Innovation-Risk-Management.git)
 
 - **Certifications**  
   Central place for my certificates & badges (SAFe 6.0 POPM, Scrum Fundamentals, Google Cloud – Intro to Generative AI).  
-  👉 https://github.com/<your-username>/Certifications
+  👉 [ https://github.com/<your-username>/Certifications](https://github.com/amitkumar714/Certifications.git)
 
 ---
 
@@ -40,7 +40,7 @@ I bring **6+ years of automotive product design and development** experience (Me
 - SAFe 6.0 Product Owner / Product Manager  
 - Scrum Fundamentals Certified (SCRUMstudy)  
 - Google Cloud – Introduction to Generative AI (badge)  
-➡ Full list & PDFs: https://github.com/<your-username>/Certifications
+➡ Full list & PDFs: [https://github.com/<your-username>/Certifications](https://github.com/amitkumar714/Certifications.git)
 
 ---
 
@@ -50,4 +50,4 @@ I bring **6+ years of automotive product design and development** experience (Me
 
 ---
 
-💬 I’m excited about roles where I can blend **product design, AI-driven decision-making, and product management** to deliver real user value at speed.
+💬 I’m excited about roles where I can blend **product design and development, AI-driven decision-making, and product management** to deliver real user value at speed.
